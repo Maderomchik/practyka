@@ -1,0 +1,2 @@
+# practyka
+projekt
